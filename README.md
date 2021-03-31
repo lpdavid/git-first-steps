@@ -1,5 +1,5 @@
 # git-first-steps
 
-linha adicionada
-outra linha
-mais uma linha
+- linha adicionada
+- outra linha
+- linha adicionada no github
